@@ -1,2 +1,6 @@
 # Linux
-Project for linux progrmas
+Project for linux programs
+
+- minishell
+- opencv
+- speech-recognition
